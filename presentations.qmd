@@ -1,0 +1,7 @@
+---
+title: "Presentations"
+---
+
+## 2026
+
+- **GroupAppeals: A Multilingual Pipeline & Database for Detecting How Parties Talk About Social Groups** *(with Alona O. Dolinsky and Lena Maria Huber)*. &nbsp;[[Slides]](presentations/groupappeals/)

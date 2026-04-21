@@ -1,10 +1,13 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - presentations/**
   render:
     - index.qmd
     - research.qmd
     - teaching.qmd
+    - presentations.qmd
     - resources.qmd
 
 website:
@@ -15,6 +18,7 @@ website:
         text: Home
       - research.qmd
       - teaching.qmd
+      - presentations.qmd
       - resources.qmd
   page-footer:
     center: "© {year} Will Horne"

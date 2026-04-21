@@ -32,5 +32,5 @@ title: "Research"
 - Horne, Will (Under Review), “How are working class candidates different? Evidence from a quantitative text analysis of campaign materials”  
 - Adams, James, David Bracken, Noam Gidron, Will Horne, Seonghui Lee, Diana O’Brien, Philip Santoso, Kaitlin Senk, and Randolph Stevenson (Under Review), “Do Woman MPs Influence Party’s Policy Images?”  
 - Horne, Will, Gregory Love and Ryan Carlin, “Is your classifier bilingual? Using Large Language Models for Cross-Lingual Classification” (APSA 2023)  
-- Dolinsky, Alona, Lena Maria Huber and Will Horne, “Parties Group Appeals Across Space and Time” (EPSA 2023)  
+- Dolinsky, Alona, Lena Maria Huber and Will Horne, “Parties Group Appeals Across Space and Time” (EPSA 2023) &nbsp;·&nbsp; [[Slides]](presentations/groupappeals/)
 - Carlin, Ryan, Jonathan Hartlyn, Timothy Hellwig, Will Horne, Gregory Love, Cecilia Martinez Gallardo and Matthew Singer, “Executive Approval in Times of Crisis.” (APSA 2023)
