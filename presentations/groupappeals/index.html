@@ -12,7 +12,7 @@
   <meta name="author" content="Will Horne">
   <meta name="author" content="Alona O. Dolinsky">
   <meta name="author" content="Lena Maria Huber">
-  <meta name="dcterms.date" content="2026-04-21">
+  <meta name="dcterms.date" content="2026-04-23">
   <title>GroupAppeals</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -226,7 +226,7 @@ Lena Maria Huber
     </div>
 </div>
 
-  <p class="date">2026-04-21</p>
+  <p class="date">2026-04-23</p>
 </section>
 <section id="motivation" class="title-slide slide level1 center">
 <h1>Motivation</h1>
@@ -388,7 +388,7 @@ Lena Maria Huber
 <h1>Step 3 — Categorise each group (multi-label)</h1>
 <div class="cols-3-2 align-start">
 <div>
-<p><strong>Each of the 43 categories is its own binary head. Every label that crosses threshold fires for the span — so intersectional groups inherit all the relevant ones.</strong></p>
+<p><strong>Each of the 43 categories is its own binary label. Every label that crosses 50% probability is coded as a “1”, so intersectional groups are captured.</strong></p>
 <div class="nli nli-wide">
 <table class="caption-top">
 <thead>
@@ -519,7 +519,7 @@ Lena Maria Huber
 <div class="callout callout-none no-icon callout-style-simple">
 <div class="callout-body">
 <div class="callout-content">
-<p><strong>Loss outside training set is small and interpretable.</strong></p>
+<p><strong>Loss outside training language is small.</strong></p>
 <ul>
 <li>Token: −2 to −3 pts</li>
 <li>Stance: −4 pts</li>
